@@ -1,5 +1,6 @@
 # MCDA algorithms
-It's a Flask API to perform Multi Criteria Decision Analysis on given data
+It's a Flask API to perform Multi Criteria Decision Analysis on given data 
+implemented back in 2020-2021 for my final year project 
 ## Steps
 thre process of MCDA includes following steps
 - Screening 
